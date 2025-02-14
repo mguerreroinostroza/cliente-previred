@@ -1,0 +1,92 @@
+[
+    {
+      "nombres": "Fernanda Andrea",
+      "apellidos": "Morales Díaz",
+      "rut": "7192616-8",
+      "fechaNacimiento": "1996-06-16",
+      "correoElectronico": "fernandamorales@mail.com",
+      "contrasena": "$2b$10$86PM1DrSS2gUD02JEAkDRORSNtjyOHnXmXgsV.A2xjq.sBme/2qbO",
+      "id": "f793cc64-2ac9-4a39-93d2-f32bcb6f7549"
+    },
+    {
+      "nombres": "María José",
+      "apellidos": "Herrera Contreras",
+      "rut": "5267506-5",
+      "fechaNacimiento": "1984-06-25",
+      "correoElectronico": "maríaherrera@mail.com",
+      "contrasena": "$2b$10$IyOW8hcrs05/4ZskFXU4.OHKFWwcNYCdWT1iQdH5PK2GbuMloVT4u",
+      "id": "b0925140-84b6-4dfa-9478-107b03158de4"
+    },
+    {
+      "nombres": "Rodrigo Ignacio",
+      "apellidos": "Castillo Vega",
+      "rut": "7151565-6",
+      "fechaNacimiento": "2003-07-22",
+      "correoElectronico": "rodrigocastillo@mail.com",
+      "contrasena": "$2b$10$/ouBNShLBMsAQJ5elML9L.IwRyn7qP11BSZgxNTrADZeZTDLAh0JC",
+      "id": "8ad7614b-041f-41c9-a8fc-99be03e77b92"
+    },
+    {
+      "nombres": "Pedro Antonio",
+      "apellidos": "Rojas Fuentes",
+      "rut": "9621907-5",
+      "fechaNacimiento": "1975-01-05",
+      "correoElectronico": "pedrorojas@mail.com",
+      "contrasena": "$2b$10$JPO5A76Y68lyyG6pTjCMj.5GnJ8U7Kqlfy2CVkwlIJs/ya8Au/Dau",
+      "id": "4e39aa54-a827-4a89-a9a3-32b3fdee44d0"
+    },
+    {
+      "nombres": "Sofía Isidora",
+      "apellidos": "Torres Ramírez",
+      "rut": "17581606-2",
+      "fechaNacimiento": "1996-04-02",
+      "correoElectronico": "sofíatorres@mail.com",
+      "contrasena": "$2b$10$yU1pfnnCIrcXxVLY5ADlGe7jwqVDmKz5Htmhaqm5I3swtJujcapXC",
+      "id": "dfc2d7ff-3bf7-4341-b8b4-e0781ee23854"
+    },
+    {
+      "nombres": "Carlos Eduardo",
+      "apellidos": "Morales Díaz",
+      "rut": "9920403-6",
+      "fechaNacimiento": "1990-04-04",
+      "correoElectronico": "carlosmorales@mail.com",
+      "contrasena": "$2b$10$zEJwBLTCav9NxwDfHu0q4.H1wT2zmqolFybolho9mq9EyZL19WIqG",
+      "id": "c8e08186-58a7-47d2-a65e-e8e7bf0f6616"
+    },
+    {
+      "nombres": "Camila Beatriz",
+      "apellidos": "Silva Martínez",
+      "rut": "20483433-4",
+      "fechaNacimiento": "2004-10-24",
+      "correoElectronico": "camilasilva@mail.com",
+      "contrasena": "$2b$10$0FqzjOxEcNwSX1PalU8sceZLcaU3hHWA8b9Ret0oze47cKqj7i4fO",
+      "id": "b512bcf8-9eff-496d-bad2-c0ee79d1ef1b"
+    },
+    {
+      "nombres": "Javiera Alejandra",
+      "apellidos": "Vargas López",
+      "rut": "20459106-7",
+      "fechaNacimiento": "2001-04-09",
+      "correoElectronico": "javieravargas@mail.com",
+      "contrasena": "$2b$10$UmIxAj6O60JXfNf9Efmjru0UuT8HHPdgsRlQ0yhvgepJokDV7zKZe",
+      "id": "e74cb124-00b3-43c6-afb1-f17038d514c8"
+    },
+    {
+      "nombres": "Javiera Alejandra",
+      "apellidos": "Núñez Fernández",
+      "rut": "23675272-0",
+      "fechaNacimiento": "1990-09-24",
+      "correoElectronico": "javieranúñez@mail.com",
+      "contrasena": "$2b$10$WeVm8gsGtY6ej23Ma821g.zYnVSkSEyF0JUmnZKgY4NhykQRxV.iG",
+      "id": "3fc69307-70e4-41d1-86c2-55f3ac89cb92"
+    },
+    {
+      "nombres": "Sofía Isidora",
+      "apellidos": "Núñez Fernández",
+      "rut": "6726118-6",
+      "fechaNacimiento": "2000-06-18",
+      "correoElectronico": "sofíanúñez@mail.com",
+      "contrasena": "$2b$10$BR.XEDsjp4CeE76W1U07O.SdftwdXN0rzN/d.S83Mj9AIZguSoykC",
+      "id": "d5925334-9068-4806-aded-cbdd4032aef9"
+    }
+  ]
